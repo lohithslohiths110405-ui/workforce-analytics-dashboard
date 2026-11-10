@@ -58,6 +58,13 @@ workforce-analytics-dashboard/
 
 ## Project Type
 Business Intelligence | HR Analytics | Data Visualization
+## Dashboard Preview
+
+### Workforce Analytics Dashboard
+![Workforce Dashboard](workforce_dashboard.png)
+
+### Employee Insights Dashboard
+![Employee Insights](employee_insights.png)
 
 ## Author
 Lohith S
